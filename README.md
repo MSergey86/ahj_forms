@@ -1,3 +1,6 @@
+https://ci.appveyor.com/project/MSergey86/ahj-forms
+
+
 # Домашнее задание к занятию "Работа с HTML-формами"
 
 Правила сдачи задания:
