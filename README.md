@@ -1,4 +1,5 @@
 https://ci.appveyor.com/project/MSergey86/ahj-forms
+https://msergey86.github.io/ahj_forms/
 
 
 # Домашнее задание к занятию "Работа с HTML-формами"
